@@ -6,7 +6,7 @@ permalink: /publication/2022-10-01-summary-ejpe
 excerpt: ''
 date: 2022-01-01
 venue: 'Erasmmus Journal for Philosophy and Economics'
-paperurl: 'https://lcongiu.github.io/lucacongiu/files/03_Nudges_JOES.pdf'
+paperurl: 'https://lcongiu.github.io/lucacongiu/files/04_summary_ejpe.pdf'
 citation: 'Congiu, L. (2022). Choice Architecture: A Message and Environment Perspective. <i>Erasmmus Journal for Philosophy and Economics</i>, 15(1): 162–166.'
 ---
 
