@@ -1,7 +1,7 @@
 ---
 title: "Biases and Nudges in the Circular Economy: A Review"
 collection: publications
-category: conferences
+category: manuscripts
 permalink: /research/2025-01-01-nudges-ce-ecolecon
 excerpt: ''
 date: 2025-01-01
