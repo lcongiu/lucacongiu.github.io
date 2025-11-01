@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+<div class="wordwrap">You can find my complete CV <a href="https://lcongiu.github.io/lucacongiu/files/Congiu_CV_it.pdf">here</a>.</div>
+
 {% include base_path %}
 
 Education
