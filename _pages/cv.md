@@ -15,7 +15,7 @@ Education
 * M.S. in Economics, University of Insubria, 2016.
 * B.S. in Sociology, University of Milan-Bicocca, 2014.
 
-Work experience
+Past positions
 ======
 * Since January 2025: Postdoctoral Researcher
   * Tor Vergata University of Rome
@@ -28,7 +28,7 @@ Work experience
 * March 2020 - January 2022: Research Assistant
   * IGIER, Bocconi University
   * Supervisor: Professor Salvatore Nunnari
-  
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -46,7 +46,12 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Service
 ======
-* Currently signed in to 43 different slack teams
+* Member of the editorial board of Humanities and Social Sciences Communications
+* Referee for: Ecological Economics · Environmental and Resource Economics · Homo Oeconomicus · Humanities
+and Social Sciences Communications · Italian Economic Journal · Journal of Behavioral and Expe-
+rimental Economics · Journal of Environmental Planning and Management · Journal of Behavioral
+Public Administration · Personality and Social Psychology Bulletin · PLoS ONE · Review of Beha-
+vioral Economics · Theory and Decision
