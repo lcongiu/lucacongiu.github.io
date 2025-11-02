@@ -3,7 +3,7 @@ title: "Choice Architecture: A Message and Environment Perspective"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-10-01-summary-ejpe
-excerpt: '<div>This thesis introduces a novel framework for analyzing and designing choice architectures by distinguishing between two key dimensions: Message (verbal and informational cues) and Environment (physical or digital context). Through theoretical analysis and experimental studies, it shows how these dimensions interact to influence decision-making, offering insights for more effective behavioral interventions and public policies.</div>'
+excerpt: '<button onclick="this.nextElementSibling.classList.toggle('show')">Abstract</button><div class="abstract-content" style="display:none;">This thesis introduces a novel framework for analyzing and designing choice architectures by distinguishing between two key dimensions: Message (verbal and informational cues) and Environment (physical or digital context). Through theoretical analysis and experimental studies, it shows how these dimensions interact to influence decision-making, offering insights for more effective behavioral interventions and public policies.</div>'
 date: 2022-01-01
 venue: 'Erasmus Journal for Philosophy and Economics'
 paperurl: 'https://lcongiu.github.io/lucacongiu/files/04_summary_EJPE.pdf'
