@@ -1,5 +1,5 @@
 ---
-title: "Choice Architecture: A Message and Environment Perspective."
+title: "Choice Architecture: A Message and Environment Perspective"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-10-01-summary-ejpe
