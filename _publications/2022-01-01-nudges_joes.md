@@ -9,4 +9,4 @@ paperurl: 'https://lcongiu.github.io/lucacongiu/files/03_Nudges_JOES.pdf'
 citation: 'Congiu, L. & Moscati, I. (2022). A Review of Nudges: Definitions, Justifications, Effectiveness, <i>Journal of Economic Surveys</i>, 36(1): 188–213.'
 ---
 
-Congiu, Luca; Moscati, Ivan.
+Congiu Luca · Moscati Ivan
