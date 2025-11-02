@@ -12,7 +12,7 @@ In short
 <p>Postdoctoral researcher in Behavioral Economics at Tor Vergata University of Rome, Italy</p>
 <p>Lecturer in Behavioral and Experimental Economics at University of Insubria, Varese</p>
 <p>Research associate at Insubria Experimental Economics (InExEc) research center</p>
-<p>Editorial board member of <i>Humanities and Social Sciences Communications</i>
+<p>Editorial board member of <i>Humanities and Social Sciences Communications</i></p>
 
 
 What I do
