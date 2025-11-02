@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-  p {margin-top: 0em; }
-</style>
-
 In short
 -------
 <p>Postdoctoral researcher in Behavioral Economics at Tor Vergata University of Rome, Italy</p>
