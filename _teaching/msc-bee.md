@@ -8,4 +8,4 @@ date: 2020-01-01
 location: "Varese, Italy"
 ---
 
-Teaching assistant since 2020 (but I taught it as co-instructor in 2022).
+Teaching assistant since 2020 (but I taught it as a lecturer in 2022).
