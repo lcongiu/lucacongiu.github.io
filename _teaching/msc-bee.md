@@ -1,7 +1,7 @@
 ---
 title: "Behavioral and Experimental Economics"
 collection: teaching
-type: "M.Sc. course"
+type: "MSc course"
 permalink: /teaching/msc-bee
 venue: "University of Insubria, Department of Economics"
 date: 2020-01-01
