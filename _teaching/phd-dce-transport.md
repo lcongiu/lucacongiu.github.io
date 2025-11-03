@@ -1,5 +1,5 @@
 ---
-title: "Stated choice experiment in transporation"
+title: "Stated choice experiments in transportation"
 collection: teaching
 type: "PhD course"
 permalink: /teaching/phd-dce-transport
