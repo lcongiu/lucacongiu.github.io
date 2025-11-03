@@ -1,9 +1,9 @@
 ---
-title: "Decision theory"
+title: "Stated choice experiment in transporation"
 collection: teaching
 type: "PhD course"
-permalink: /teaching/phd-decision-theory
+permalink: /teaching/phd-dce-transport
 venue: "University of Insubria, Department of Economics"
-date: 2021
+date: 2024
 location: "Varese, Italy"
 ---
