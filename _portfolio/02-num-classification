@@ -1,7 +1,0 @@
----
-title: "Number classification task"
-excerpt: "Subject classifies numbers as > or < X, for oTree 3.3.11 (with S. Nunnari)"
-collection: portfolio
----
-
-[Repo](https://github.com/snunnari/otree_number_perception)
