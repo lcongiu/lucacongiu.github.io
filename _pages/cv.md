@@ -52,8 +52,5 @@ Teaching
 Service to the profession
 -----
 * Member of the editorial board of Humanities and Social Sciences Communications
-* Referee for: Ecological Economics · Environmental and Resource Economics · Homo Oeconomicus · Humanities
-and Social Sciences Communications · Italian Economic Journal · Journal of Behavioral and Expe-
-rimental Economics · Journal of Environmental Planning and Management · Journal of Behavioral
-Public Administration · Personality and Social Psychology Bulletin · PLoS ONE · Review of Beha-
-vioral Economics · Theory and Decision
+* Referee for: Ecological Economics · Environmental and Resource Economics · Homo Oeconomicus · Humanities and Social Sciences Communications · Italian Economic Journal · Journal of Behavioral and Experimental Economics · Journal of Environmental Planning and Management · Journal of Behavioral
+Public Administration · Personality and Social Psychology Bulletin · PLoS ONE · Review of Behavioral Economics · Theory and Decision
